@@ -18,24 +18,29 @@ Dr. Tan Qichen is an Associate Professor at Soochow University. He earned his BE
 Selected Publications
 ------
 <div style="text-align: justify;">
-[1] Tan, Q., Hou, J., Li, Y., Qu, R., Zhou, P., Zhong, S., ... & Zhang, X. (2024). Exploring noise reduction strategies: Optimizing drone station placement for last-mile delivery. Transportation Research Part D: Transport and Environment, 133, 104306. [Link](https://www.sciencedirect.com/science/article/pii/S1361920924002633)
+[1] Tan, Q., Hou, J., Li, Y., Qu, R., Zhou, P., Zhong, S., ... & Zhang, X. (2024). Exploring noise reduction strategies: Optimizing drone station placement for last-mile delivery. Transportation Research Part D: Transport and Environment, 133, 104306. 
 </div>
+[Link](https://www.sciencedirect.com/science/article/pii/S1361920924002633)
 
 <div style="text-align: justify;">
-[2] Tan, Q., Li, Y., Wu, H., Zhou, P., Lo, H. K., Zhong, S., & Zhang, X. (2024). Enhancing sustainable urban air transportation: Low-noise UAS flight planning using noise assessment simulator. Aerospace Science and Technology, 147, 109071. [Link](https://www.sciencedirect.com/science/article/pii/S1270963824002049)
+[2] Tan, Q., Li, Y., Wu, H., Zhou, P., Lo, H. K., Zhong, S., & Zhang, X. (2024). Enhancing sustainable urban air transportation: Low-noise UAS flight planning using noise assessment simulator. Aerospace Science and Technology, 147, 109071. 
 </div>
+[Link](https://www.sciencedirect.com/science/article/pii/S1270963824002049)
 
 <div style="text-align: justify;">
-[3] Tan, Q., Zhong, S., Qu, R., Li, Y., Zhou, P., Lo, H. K., & Zhang, X. (2024). Low-noise flight path planning of drones based on a virtual flight noise simulator: A vehicle routing problem. IEEE Intelligent Transportation Systems Magazine. [Link](https://ieeexplore.ieee.org/abstract/document/10540653)
+[3] Tan, Q., Zhong, S., Qu, R., Li, Y., Zhou, P., Lo, H. K., & Zhang, X. (2024). Low-noise flight path planning of drones based on a virtual flight noise simulator: A vehicle routing problem. IEEE Intelligent Transportation Systems Magazine. 
 </div>
+[Link](https://ieeexplore.ieee.org/abstract/document/10540653)
 
 <div style="text-align: justify;">
-[4] Tan, Q., Bian, H., Guo, J., Zhou, P., Lo, H. K., Zhong, S., & Zhang, X. (2023). Virtual flight simulation of delivery drone noise in the urban residential community. Transportation Research Part D: Transport and Environment, 118, 103686. [Link](https://www.sciencedirect.com/science/article/pii/S1361920923000834)
+[4] Tan, Q., Bian, H., Guo, J., Zhou, P., Lo, H. K., Zhong, S., & Zhang, X. (2023). Virtual flight simulation of delivery drone noise in the urban residential community. Transportation Research Part D: Transport and Environment, 118, 103686. 
 </div>
+[Link](https://www.sciencedirect.com/science/article/pii/S1361920923000834)
 
 <div style="text-align: justify;">
-[5] Tan, Q., Li, Y., Bao, H., Zhou, P., Lo, H. K., Zhong, S., & Zhang, X. (2024). Low-Noise Multi-Agent Intelligent Navigation for Unmanned Aircraft Systems. In 30th AIAA/CEAS Aeroacoustics Conference (2024) (p. 3234). [Link](https://arc.aiaa.org/doi/abs/10.2514/6.2024-3234)
+[5] Tan, Q., Li, Y., Bao, H., Zhou, P., Lo, H. K., Zhong, S., & Zhang, X. (2024). Low-Noise Multi-Agent Intelligent Navigation for Unmanned Aircraft Systems. In 30th AIAA/CEAS Aeroacoustics Conference (2024) (p. 3234). 
 </div>
+[Link](https://arc.aiaa.org/doi/abs/10.2514/6.2024-3234)
 
 Collaborative Publications
 ------
