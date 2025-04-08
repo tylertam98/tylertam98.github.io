@@ -51,6 +51,9 @@ Excellent Student Scholarship, UESTC, 2016-2019
 
 Photo
 ------
+![abc](/images/pt3.jpg)
+The beauty of Soochow University.
+
 ![abc](/images/pt2.jpg)
 2025.03 (HKUST) - Introducing our reseach on noise simulation and low-noise flight path planning to the HK government and media reporter.
 
