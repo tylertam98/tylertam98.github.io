@@ -84,7 +84,8 @@ The beauty of Soochow University.
 ![abc](/images/pt1.png)
 2023.03 in HKUST - Introduce our research to Li Ning, and Academician Nancy Y. Ip.
 
-
+![abc](/images/pt4.jpg)
+2020.11 in HKUST - With Hong Kong Windsurfing Team (Right: Chan King-yin, Head Coach).
 
 Related Links:
 ------
