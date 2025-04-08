@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify;">
-Dr. Tan Qichen is an Associate Professor at Soochow University. He earned his BEng in Software Engineering from the <strong>University of Electronic Science and Technology of China (UESTC)</strong> in 2020 and completed his PhD in Intelligent Transportation at the <strong>Hong Kong University of Science and Technology (HKUST)</strong> in 2024. Prior to joining Soochow University, he continued his research as a post-doctoral fellow at HKUST, deepening his expertise in low-altitude economy and intelligent technologies. Dr. Tan’s research focuses on solving complex challenges at the intersection of technology and sustainability. His work centers on intelligent path planning for low-altitude aircraft, acoustic simulation of aircraft, multimodal data fusion, noise visualization, and embodied artificial intelligence. His innovative approaches aim to create smarter, quieter, and more efficient urban environments. Dr. Tan warmly invites passionate undergraduate and master’s students to join our vibrant research team. Here, you’ll embark on a transformative journey to expand your global perspective, engage in pioneering scientific exploration, and foster interdisciplinary innovation.
+Dr. Tan Qichen is an Associate Professor at Soochow University. He earned his BEng in Software Engineering from the University of Electronic Science and Technology of China (UESTC) in 2020 and completed his PhD in Intelligent Transportation at the Hong Kong University of Science and Technology (HKUST) in 2024. Prior to joining Soochow University, he continued his research as a post-doctoral fellow at HKUST, deepening his expertise in low-altitude economy and intelligent technologies. Dr. Tan’s research focuses on solving complex challenges at the intersection of technology and sustainability. His work centers on intelligent path planning for low-altitude aircraft, acoustic simulation of aircraft, multimodal data fusion, noise visualization, and embodied artificial intelligence. His innovative approaches aim to create smarter, quieter, and more efficient urban environments. Dr. Tan warmly invites passionate undergraduate and master’s students to join our vibrant research team. Here, you’ll embark on a transformative journey to expand your global perspective, engage in pioneering scientific exploration, and foster interdisciplinary innovation.
 </div>
 
 <div style="text-align: justify;">
@@ -26,7 +26,7 @@ Selected Publications
 
 [5] Tan, Q., Li, Y., Bao, H., Zhou, P., Lo, H. K., Zhong, S., & Zhang, X. (2024). Low-Noise Multi-Agent Intelligent Navigation for Unmanned Aircraft Systems. In 30th AIAA/CEAS Aeroacoustics Conference (2024) (p. 3234). [Link](https://arc.aiaa.org/doi/abs/10.2514/6.2024-3234)
 
-Collaborative Research Programs
+Collaborative Publications
 ------
 [1] Hou, J., Tan, Q., Wang, Z., Mok, K. P., Zhou, P., & Zhang, X. (2025). Inshore sailing route optimization integrating terrain-influenced wind field. Ocean Engineering, 326, 120848. 
 
@@ -40,7 +40,7 @@ Collaborative Research Programs
 
 More publications can be found in [Google Scholar](https://scholar.google.com/citations?user=Doo7G5UAAAAJ&hl=zh-CN&oi=sra)
 
-Award
+Selected Awards
 ------
 Postgraduate Studentship, HKUST, 2020-2024
 
@@ -61,7 +61,6 @@ The beauty of Soochow University.
 ![abc](/images/pt1.png)
 2023.03 in HKUST - Introduce our research output to Li Ning, and Academician Nancy Y. Ip.
 
-<audio src="/images/归一.mp3" controls="" preload="none">
 
 
 Related Links:
