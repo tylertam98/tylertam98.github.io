@@ -47,10 +47,10 @@ Excellent Student Scholarship, UESTC, 2016-2019
 
 Photo
 ------
-![](/images/pt2.png)
+![abc](/images/pt2.png)
 2025.03 (HKUST) - Introducing our reseach on noise simulation and low-noise flight path planning to the HK government and media reporter.
 
-![](/images/pt1.png)
+![abc](/images/pt1.png)
 2023.03 (HKUST) - Introducing our research output to Li Ning, and Academician Nancy Y. Ip.
 
 Related Links:
