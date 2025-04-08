@@ -23,8 +23,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "Photo"
-  #   url: /cv/
+  - title: "Photo"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
