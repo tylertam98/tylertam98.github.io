@@ -60,9 +60,7 @@ The beauty of Soochow University.
 ![abc](/images/pt1.png)
 2023.03 in HKUST - Introduce our research output to Li Ning, and Academician Nancy Y. Ip.
 
-<iframe 
-  src="//player.bilibili.com/player.html?isOutside=true&aid=208523498&bvid=BV1Yh411J7xU&cid=424158826&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="false">
-</iframe>
+<audio src="/images/归一.mp3"></audio>
 
 Related Links:
 ------
