@@ -7,23 +7,40 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify;">
-Dr. Tan Qichen is an Associate Professor at Soochow University. He earned his BEng in **Software Engineering** from the **University of Electronic Science and Technology of China (UESTC)** in 2020 and completed his PhD in **Intelligent Transportation** at the **Hong Kong University of Science and Technology (HKUST)** in 2024. Prior to joining Soochow University, he continued his research as a post-doctoral fellow at HKUST, deepening his expertise in low-altitude economy and intelligent technologies. Dr. Tan’s research focuses on solving complex challenges at the intersection of technology and sustainability. His work centers on intelligent path planning for low-altitude aircraft, acoustic simulation of aircraft, multimodal data fusion, noise visualization, and embodied artificial intelligence. His innovative approaches aim to create smarter, quieter, and more efficient urban environments. **Dr. Tan warmly invites passionate undergraduate and master’s students to join our vibrant research team. Here, you’ll embark on a transformative journey to expand your global perspective, engage in pioneering scientific exploration, and foster interdisciplinary innovation.**
+Dr. Tan Qichen is an Associate Professor at Soochow University. He earned his BEng in Software Engineering from the <strong>University of Electronic Science and Technology of China (UESTC)</strong> in 2020 and completed his PhD in Intelligent Transportation at the <strong>Hong Kong University of Science and Technology (HKUST)</strong> in 2024. Prior to joining Soochow University, he continued his research as a post-doctoral fellow at HKUST, deepening his expertise in low-altitude economy and intelligent technologies. Dr. Tan’s research focuses on solving complex challenges at the intersection of technology and sustainability. His work centers on intelligent path planning for low-altitude aircraft, acoustic simulation of aircraft, multimodal data fusion, noise visualization, and embodied artificial intelligence. His innovative approaches aim to create smarter, quieter, and more efficient urban environments. <strong>Dr. Tan warmly invites passionate undergraduate and master’s students to join our vibrant research team. Here, you’ll embark on a transformative journey to expand your global perspective, engage in pioneering scientific exploration, and foster interdisciplinary innovation.</strong>
 </div>
 
-A data-driven personal website
+Selected Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Major Research Programs
+------
+[1] Tan, Q., Hou, J., Li, Y., Qu, R., Zhou, P., Zhong, S., ... & Zhang, X. (2024). Exploring noise reduction strategies: Optimizing drone station placement for last-mile delivery. Transportation Research Part D: Transport and Environment, 133, 104306. [Link](https://www.sciencedirect.com/science/article/pii/S1361920924002633)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+[2] Tan, Q., Li, Y., Wu, H., Zhou, P., Lo, H. K., Zhong, S., & Zhang, X. (2024). Enhancing sustainable urban air transportation: Low-noise UAS flight planning using noise assessment simulator. Aerospace Science and Technology, 147, 109071. [Link](https://www.sciencedirect.com/science/article/pii/S1270963824002049)
 
-Getting started
+[3] Tan, Q., Zhong, S., Qu, R., Li, Y., Zhou, P., Lo, H. K., & Zhang, X. (2024). Low-noise flight path planning of drones based on a virtual flight noise simulator: A vehicle routing problem. IEEE Intelligent Transportation Systems Magazine. [Link](https://ieeexplore.ieee.org/abstract/document/10540653)
+
+[4] Tan, Q., Bian, H., Guo, J., Zhou, P., Lo, H. K., Zhong, S., & Zhang, X. (2023). Virtual flight simulation of delivery drone noise in the urban residential community. Transportation Research Part D: Transport and Environment, 118, 103686. [Link](https://www.sciencedirect.com/science/article/pii/S1361920923000834)
+
+[5] Tan, Q., Li, Y., Bao, H., Zhou, P., Lo, H. K., Zhong, S., & Zhang, X. (2024). Low-Noise Multi-Agent Intelligent Navigation for Unmanned Aircraft Systems. In 30th AIAA/CEAS Aeroacoustics Conference (2024) (p. 3234). [Link](https://arc.aiaa.org/doi/abs/10.2514/6.2024-3234)
+
+Collaborative Research Programs
+------
+[1] Hou, J., Tan, Q., Wang, Z., Mok, K. P., Zhou, P., & Zhang, X. (2025). Inshore sailing route optimization integrating terrain-influenced wind field. Ocean Engineering, 326, 120848. 
+
+[2] Bao, H., Tan, Q., Zhou, P., Chen, W., Zhang, X., & Zhong, S. (2025, February). On the Gaussian beam tracing method for long-distance sound wave propagation in non-uniform mean flows. In Proceedings A (Vol. 481, No. 2307, p. 20240485). The Royal Society.
+
+[3] Bian, H., Tan, Q., Zhong, S., & Zhang, X. (2022). Efficient computation of broadband noise propagation using Gaussian beam tracing method. The Journal of the Acoustical Society of America, 151(5), 3387-3397.
+
+[4] Bian, H., Tan, Q., Zhong, S., & Zhang, X. (2021). Assessment of UAM and drone noise impact on the environment based on virtual flights. Aerospace Science and Technology, 118, 106996.
+
+[5] Hou, J., Liu, G., Tan, Q., Mok, K. P., Song, W., Chan, K. Y., ... & Zhang, X. (2024). Velocity prediction program for windsurfing: A hierarchical approach integrating biomechanical insights. Ocean Engineering, 312, 119070.
+
+Award
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Postgraduate Studentship (PGS), HKUST, 2020
+Excellent Graduate Student, UESTC, 2020
+Excellent Student Scholarship, UESTC, 2016-2019
 
 Site-wide configuration
 ------
