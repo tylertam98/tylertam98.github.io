@@ -8,10 +8,11 @@ redirect_from:
 ---
 <div style="text-align: justify;">
 Dr. Tan Qichen is an Associate Professor at Soochow University. He earned his BEng in Software Engineering from the <strong>University of Electronic Science and Technology of China (UESTC)</strong> in 2020 and completed his PhD in Intelligent Transportation at the <strong>Hong Kong University of Science and Technology (HKUST)</strong> in 2024. Prior to joining Soochow University, he continued his research as a post-doctoral fellow at HKUST, deepening his expertise in low-altitude economy and intelligent technologies. Dr. Tan’s research focuses on solving complex challenges at the intersection of technology and sustainability. His work centers on intelligent path planning for low-altitude aircraft, acoustic simulation of aircraft, multimodal data fusion, noise visualization, and embodied artificial intelligence. His innovative approaches aim to create smarter, quieter, and more efficient urban environments. Dr. Tan warmly invites passionate undergraduate and master’s students to join our vibrant research team. Here, you’ll embark on a transformative journey to expand your global perspective, engage in pioneering scientific exploration, and foster interdisciplinary innovation.
-
-<strong>诚挚邀请各位充满热情的本科生和硕士生加入我们的研究团队。在这里，您将踏上一段有趣且充实的旅程，拓宽国际视野，参与前沿科技研究，并培养跨学科创新能力！</strong>
 </div>
 
+<div style="text-align: justify;">
+<strong>诚挚邀请各位充满热情的本科生和硕士生加入我们的研究团队。在这里，您将踏上一段有趣且充实的旅程，拓宽国际视野，参与前沿科技研究，并培养跨学科创新能力！</strong>
+</div>
 
 Selected Publications
 ------
