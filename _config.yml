@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Tan Qichen's Personal Page"
+title                    : "Main Page"
 title_separator          : "-"
 name                     : &name "Tan Qichen"
 description              : &description "personal description"
