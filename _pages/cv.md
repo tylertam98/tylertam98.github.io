@@ -9,56 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Photo List
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* The beauty of Soochow University.
+![abc](/images/pt3.jpg)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025.03 in HKUST - Introduce our reseach on noise simulation and low-noise flight path planning to the HK government and media.
+![abc](/images/pt2.png)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023.03 in HKUST - Introduce our research to Li Ning (李宁), Academician Nancy Y. Ip (叶玉如), and media.
+![abc](/images/pt1.png)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2020.11 in HKUST - With Hong Kong Windsurfing Team (Right: Chan King-yin 陈敬然, Head Coach).
+![abc](/images/pt4.jpg)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Music and Art in Hong Kong - Group photo with Jue Yao 姚珏 (Violinist), Bruce Liu 刘晓禹 (Pianist, First Prize at the 18th Chopin International Piano Competition), Lang Lang 郎朗 (The most famous Pianist in China), Seong-Jin Cho 赵成珍 (Pianist, First Prize at the 17th Chopin International Piano Competition), Kísin 基辛 (One of the most famous Pianist in the word).
+![abc](/images/pt5.jpg)
+
