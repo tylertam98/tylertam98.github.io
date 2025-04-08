@@ -17,14 +17,14 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Photo"
-    url: /portfolio/
+  # - title: "Photo"
+  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "中文主页"
-    url: /cv/
+  # - title: "中文主页"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
