@@ -56,11 +56,11 @@ Photo
 ![abc](/images/pt3.jpg)
 The beauty of Soochow University.
 
-![abc](/images/pt2.jpg)
+![abc](/images/pt2.png)
 2025.03 in HKUST - Introduce our reseach on noise simulation and low-noise flight path planning to the HK government and media reporter.
 
 ![abc](/images/pt1.png)
-2023.03 in HKUST - Introduce our research output to Li Ning, and Academician Nancy Y. Ip.
+2023.03 in HKUST - Introduce our research to Li Ning, and Academician Nancy Y. Ip.
 
 
 
