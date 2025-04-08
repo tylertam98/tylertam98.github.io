@@ -41,7 +41,7 @@ More publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 Award
 ------
-Postgraduate Studentship, HKUST, 2020
+Postgraduate Studentship, HKUST, 2020-2024
 
 Excellent Graduate Student, UESTC, 2020
 
