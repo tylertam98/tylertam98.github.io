@@ -88,7 +88,7 @@ The beauty of Soochow University.
 2020.11 in HKUST - With Hong Kong Windsurfing Team (Right: Chan King-yin 陈敬然, Head Coach).
 
 ![abc](/images/pt5.jpg)
-Music and Art - Group photo with Jue Yao 姚珏 (Violinist), Bruce Liu 刘晓禹 (Pianist, First Prize at the 18th Chopin International Piano Competition), Lang Lang 郎朗 (The most famous Pianist in China), Seong-Jin Cho 赵成珍 (Pianist, First Prize at the 17th Chopin International Piano Competition), Kísin 基辛 (One of the most famous Pianist in the word).
+Music and Art in Hong Kong - Group photo with Jue Yao 姚珏 (Violinist), Bruce Liu 刘晓禹 (Pianist, First Prize at the 18th Chopin International Piano Competition), Lang Lang 郎朗 (The most famous Pianist in China), Seong-Jin Cho 赵成珍 (Pianist, First Prize at the 17th Chopin International Piano Competition), Kísin 基辛 (One of the most famous Pianist in the word).
 
 Related Links:
 ------
