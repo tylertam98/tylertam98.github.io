@@ -13,6 +13,10 @@ The beauty of Soochow University.
 ------
 ![abc](/images/pt3.jpg)
 
+The beauty of HKUST.
+------
+![abc](/images/pt6.jpg)
+
 2025.03 in HKUST - Introduce our reseach on noise simulation and low-noise flight path planning to the HK government and media.
 ------
 ![abc](/images/pt2.png)
