@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Page"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -47,12 +47,16 @@ Excellent Student Scholarship, UESTC, 2016-2019
 
 Photo
 ------
-2023.03: Introducing the aerodynamic and aeroacoustic experimental apparatus to Li Ning, and Academician Nancy Y. Ip.
-![Editing a markdown file for a talk](/images/pt1.png)
+![](/images/pt2.png)
+2025.03 (HKUST) - Introducing our reseach on noise simulation and low-noise flight path planning to the HK government and media reporter.
+
+![](/images/pt1.png)
+2023.03 (HKUST) - Introducing our research output to Li Ning, and Academician Nancy Y. Ip.
 
 Related Links:
 ------
 Soochow University: [https://www.suda.edu.cn/](https://www.suda.edu.cn/)
+
 HKUST: [https://hkust.edu.hk/](https://hkust.edu.hk/)
 
 
