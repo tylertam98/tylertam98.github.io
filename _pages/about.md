@@ -11,7 +11,7 @@ Dr. Tan Qichen is an Associate Professor at Soochow University. He earned his BE
 </div>
 
 <div style="text-align: justify;">
-<strong>诚挚邀请各位充满热情的本科生和硕士生加入我们的研究团队。在这里，您将踏上一段有趣且充实的旅程，拓宽国际视野，参与前沿科技研究，并培养跨学科创新能力！</strong>
+<strong>诚挚邀请各位充满热情的本科生和硕士生加入我们的研究团队。在这里，你将踏上一段有趣且充实的旅程，拓宽国际视野，参与前沿科技研究，培养跨学科创新能力。</strong>
 </div>
 
 Selected Publications
