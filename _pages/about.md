@@ -61,9 +61,8 @@ Collaborative Publications
 [5] Hou, J., Liu, G., Tan, Q., Mok, K. P., Song, W., Chan, K. Y., ... & Zhang, X. (2024). Velocity prediction program for windsurfing: A hierarchical approach integrating biomechanical insights. Ocean Engineering, 312, 119070.
 </div>
 &nbsp;
-<div style="text-align: justify;">
-More publications can be found in 
-</div>[Google Scholar](https://scholar.google.com/citations?user=Doo7G5UAAAAJ&hl=zh-CN&oi=sra)
+
+More publications can be found in [Google Scholar](https://scholar.google.com/citations?user=Doo7G5UAAAAJ&hl=zh-CN&oi=sra)
 
 Selected Awards
 ------
