@@ -62,8 +62,8 @@ Collaborative Publications
 </div>
 &nbsp;
 <div style="text-align: justify;">
-More publications can be found in [Google Scholar](https://scholar.google.com/citations?user=Doo7G5UAAAAJ&hl=zh-CN&oi=sra)
-</div>
+More publications can be found in 
+</div>[Google Scholar](https://scholar.google.com/citations?user=Doo7G5UAAAAJ&hl=zh-CN&oi=sra)
 
 Selected Awards
 ------
