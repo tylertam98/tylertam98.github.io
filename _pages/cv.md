@@ -39,12 +39,20 @@ Piano Performance Album
 
 Chopin: Andante Spianato e Grande Polonaise Brillante 《肖邦：平静的行板和华丽的大波兰舞曲》
 
-Performer: Tan Qichen, recorded in summer 2019.
+Performer: Tan Qichen, recorded at home in summer 2019.
 
 ![abc](/images/piano.jpg)
 
 <audio src="/images/华丽的大波兰.m4a" controls="" preload="none"> 
 
+
+Chopin: Fantazja-Impromptu 《肖邦：幻想即兴曲》
+
+Performer: Tan Qichen, recorded at HKU in spring 2023.
+
+<video width="500" height="auto" controls> 
+<source src="/images/幻想即兴曲.mp4" type="video/mp4">
+</video>
 
 
 
