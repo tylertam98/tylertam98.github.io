@@ -50,7 +50,7 @@ Chopin: Fantazja-Impromptu 《肖邦：幻想即兴曲》
 
 Performer: Tan Qichen, recorded at HKU in spring 2023.
 
-<video width="500" height="auto" controls> 
+<video width="300" height="auto" controls> 
 <source src="/images/幻想即兴曲-compress.mp4" type="video/mp4">
 </video>
 
