@@ -50,7 +50,7 @@ Chopin: Ballades No. 1 in G minor, Op. 23 《肖邦：第一号叙事曲》
 Performer: Tan Qichen, recorded at Sichuan Conservatory of Music in spring 2019.
 
 <video width="300" height="auto" controls controlsList="nodownload"> 
-<source src="/images/幻想即兴曲-compress.mp4" type="video/mp4">
+<source src="/images/1-144.mp4" type="video/mp4">
 </video>
 
 Chopin: Fantazja-Impromptu 《肖邦：幻想即兴曲》
