@@ -33,7 +33,7 @@ Music and Art in Hong Kong - Group photo with Jue Yao 姚珏 (Violinist), Bruce 
 ------
 ![abc](/images/pt5.jpg)
 
-
+&nbsp;
 Piano Performance Album
 ======
 
