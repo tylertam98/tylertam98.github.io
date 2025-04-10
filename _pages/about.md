@@ -79,5 +79,5 @@ Related Links:
 [HKUST](https://hkust.edu.hk/),
 [UESTC](https://www.uestc.edu.cn/).
 
-![abc](/images/suda.jpg)
+![abc](/images/suda2.png)
 
