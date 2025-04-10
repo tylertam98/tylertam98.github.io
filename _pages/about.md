@@ -43,24 +43,24 @@ Collaborative Publications
 
 <div style="text-align: justify;">
 [1] Hou, J., Tan, Q., Wang, Z., Mok, K. P., Zhou, P., & Zhang, X. (2025). Inshore sailing route optimization integrating terrain-influenced wind field. Ocean Engineering, 326, 120848. 
-</div>
-&nbsp;
+</div>[Link](https://www.sciencedirect.com/science/article/pii/S0029801825005621)
+
 <div style="text-align: justify;">
 [2] Bao, H., Tan, Q., Zhou, P., Chen, W., Zhang, X., & Zhong, S. (2025, February). On the Gaussian beam tracing method for long-distance sound wave propagation in non-uniform mean flows. In Proceedings A (Vol. 481, No. 2307, p. 20240485). The Royal Society.
-</div>
-&nbsp;
+</div>[Link](https://royalsocietypublishing.org/doi/10.1098/rspa.2024.0485)
+
 <div style="text-align: justify;">
 [3] Bian, H., Tan, Q., Zhong, S., & Zhang, X. (2022). Efficient computation of broadband noise propagation using Gaussian beam tracing method. The Journal of the Acoustical Society of America, 151(5), 3387-3397.
-</div>
-&nbsp;
+</div>[Link](https://pubs.aip.org/asa/jasa/article/151/5/3387/2839028/Efficient-computation-of-broadband-noise)
+
 <div style="text-align: justify;">
 [4] Bian, H., Tan, Q., Zhong, S., & Zhang, X. (2021). Assessment of UAM and drone noise impact on the environment based on virtual flights. Aerospace Science and Technology, 118, 106996.
-</div>
-&nbsp;
+</div>[Link](https://www.sciencedirect.com/science/article/pii/S127096382100506X)
+
 <div style="text-align: justify;">
 [5] Hou, J., Liu, G., Tan, Q., Mok, K. P., Song, W., Chan, K. Y., ... & Zhang, X. (2024). Velocity prediction program for windsurfing: A hierarchical approach integrating biomechanical insights. Ocean Engineering, 312, 119070.
-</div>
-&nbsp;
+</div>[Link](https://www.sciencedirect.com/science/article/pii/S0029801824024089)
+
 
 More publications can be found in [Google Scholar](https://scholar.google.com/citations?user=Doo7G5UAAAAJ&hl=zh-CN&oi=sra)
 
