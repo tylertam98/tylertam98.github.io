@@ -17,17 +17,17 @@ The beauty of HKUST.
 ------
 ![abc](/images/pt6.jpg)
 
-2025.03 in HKUST - Introduce our reseach on noise simulation and low-noise flight path planning to the HK government and media.
-------
-![abc](/images/pt2.png)
+# 2025.03 in HKUST - Introduce our reseach on noise simulation and low-noise flight path planning to the HK government and media.
+# ------
+# ![abc](/images/pt2.png)
 
-2023.03 in HKUST - Introduce our research to Li Ning (李宁), Academician Nancy Y. Ip (叶玉如), and media.
-------
-![abc](/images/pt1.png)
+# 2023.03 in HKUST - Introduce our research to Li Ning (李宁), Academician Nancy Y. Ip (叶玉如), and media.
+# ------
+# ![abc](/images/pt1.png)
 
-2020.11 in HKUST - With Hong Kong Windsurfing Team (Right: Chan King-yin 陈敬然, Head Coach).
-------
-![abc](/images/pt4.jpg)
+# 2020.11 in HKUST - With Hong Kong Windsurfing Team (Right: Chan King-yin 陈敬然, Head Coach).
+# ------
+# ![abc](/images/pt4.jpg)
 
 Music and Art in Hong Kong - Group photo with Jue Yao 姚珏 (Violinist), Bruce Liu 刘晓禹 (Pianist, Champion of the 18th Chopin Competition), Lang Lang 郎朗 (Outstanding Pianist), Seong-Jin Cho 赵成珍 (Pianist, Champion of the 17th Chopin Competition), Kísin 基辛 (Outstanding Pianist).
 ------
