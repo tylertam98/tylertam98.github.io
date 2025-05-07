@@ -64,14 +64,6 @@ Collaborative Publications
 
 More publications can be found in [Google Scholar](https://scholar.google.com/citations?user=Doo7G5UAAAAJ&hl=zh-CN&oi=sra)
 
-Selected Awards
-------
-Postgraduate Studentship, HKUST, 2020-2024
-
-Excellent Graduate Student, UESTC, 2020
-
-Excellent Student Scholarship, UESTC, 2016-2019
-
 
 Related Links:
 ------
